@@ -1,6 +1,6 @@
 ## Olá eu sou Willian Andrade 👋
 
-- 🔭 Hoje estou trabalho com Design Gr'afico
+- 🔭 Hoje estou trabalho com Vídeo e Design Gráfico
 - 🌱 Estudando Front-end
 - 😄 Pronouns: Ele/Dele...
 
