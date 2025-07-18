@@ -4,6 +4,12 @@
 - 🌱 Estudando Front-end
 - 😄 Pronouns: Ele/Dele...
 
+## Projetos
+- [pmv-ads-2024-1-e2-proj-int-t6-infogames](https://github.com/willianbarbosadeandrade/pmv-ads-2024-1-e2-proj-int-t6-infogames)
+- [Projeto-Rocketseat](https://github.com/willianbarbosadeandrade/Projeto-Rocketseat)
+- [TRAIL-Ferramenta-de-check-in--T6--Grupo-01](https://github.com/willianbarbosadeandrade/TRAIL-Ferramenta-de-check-in--T6--Grupo-01)
+- [Perfil GitHub](https://github.com/willianbarbosadeandrade/willianbarbosadeandrade)
+
 <div>
   <a href="https://github.com/willianbarbosadeandrade">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=willianbarbosadeandrade&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
