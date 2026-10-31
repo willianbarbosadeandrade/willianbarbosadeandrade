@@ -1,37 +1,43 @@
-## Olá eu sou Willian Andrade 👋
+# Olá, eu sou o Willian Andrade 👋
 
-- 🔭 Hoje estou trabalho com Vídeo e Design Gráfico
-- 🌱 Estudando Front-end
-- 😄 Pronouns: Ele/Dele...
+**Broadcast & Network Operations** · Doha, Qatar 🇶🇦
 
-## Projetos
-- [pmv-ads-2024-1-e2-proj-int-t6-infogames](https://github.com/willianbarbosadeandrade/pmv-ads-2024-1-e2-proj-int-t6-infogames)
-- [Projeto-Rocketseat](https://github.com/willianbarbosadeandrade/Projeto-Rocketseat)
-- [TRAIL-Ferramenta-de-check-in--T6--Grupo-01](https://github.com/willianbarbosadeandrade/TRAIL-Ferramenta-de-check-in--T6--Grupo-01)
-- [Perfil GitHub](https://github.com/willianbarbosadeandrade/willianbarbosadeandrade)
+Sou Screen Operator na **beIN MEDIA GROUP**, onde opero painéis de LED em estúdios de transmissão ao vivo. Boa parte do meu dia é rede: endereçamento IP de processadores e servidores de mídia, switches, VLANs, NDI, cabeamento e diagnóstico de conectividade com o programa no ar.
 
-<div>
-  <a href="https://github.com/willianbarbosadeandrade">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=willianbarbosadeandrade&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianbarbosadeandrade&layout=compact&langs_count=10&theme=dracula"/>
-</div>
-<div style="display: inline-block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Willian-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  </div>
-  
-  ##
- 
-<div> 
-  <a href="https://instagram.com/willian.film" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/willbarbosa" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"> </a> 
-  <a href = "mailto:willianbarbosa.comunic@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "+974 5092 5665"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  </a> 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+Sou tecnólogo em **Análise e Desenvolvimento de Sistemas** pela PUC Minas e estou me especializando em **Redes e Cibersegurança** pela Cisco Networking Academy. Uso este GitHub para documentar o que construo e aprendo.
 
+---
+
+### 🔧 Projetos
+
+| Projeto | O que é | Stack |
+|---|---|---|
+| [**Lumen**](https://github.com/willianbarbosadeandrade/lumen) | Copiloto de IA para desktop: transcrição de reuniões com identificação de vozes, perguntas sobre a tela e ações sobre texto selecionado. Dados locais, chaves no cofre do sistema, sem backend | Electron · React · TypeScript |
+
+### 🎓 Projetos acadêmicos (PUC Minas · ADS)
+
+Projetos em grupo, com documentação completa: especificação, arquitetura, plano e registro de testes.
+
+| Projeto | O que é | Stack |
+|---|---|---|
+| [**InfoGames**](https://github.com/willianbarbosadeandrade/pmv-ads-2024-1-e2-proj-int-t6-infogames) | Portal para jogadores com notícias atualizadas e estatísticas de jogos, publicado no Azure (2024/1) | C# · ASP.NET Core 8 MVC · Entity Framework · SQL Server |
+| [**Trail**](https://github.com/willianbarbosadeandrade/TRAIL-Ferramenta-de-check-in--T6--Grupo-01) | Aplicação web de check-in para registrar visitas a pontos turísticos (2023/2) | HTML · CSS · JavaScript |
+| **Approveit** | Aplicativo móvel para gerenciar aprovações burocráticas em ambientes corporativos (2025/1) | Desenvolvimento mobile |
+
+### 📚 Formação e estudos
+
+- 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas, PUC Minas
+- ✅ Cisco Networking Academy: Introduction to Cybersecurity · Networking Basics
+- 🔄 Cursando: Networking Devices and Initial Configuration
+- 🧪 Labs práticos no Cisco Packet Tracer
+
+### 🧰 Ferramentas
+
+`Redes` TCP/IP · VLAN · NDI · Cisco Packet Tracer
+`Automação` Bash · Python
+`Dev` JavaScript · TypeScript · React · Node.js · Electron
+`Design` Figma · p5.js
+
+---
+
+📫 [LinkedIn](https://www.linkedin.com/in/willianbarbosadeandrade) · [E-mail](mailto:willianbarbosa.comunic@gmail.com)
