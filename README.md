@@ -22,6 +22,7 @@ Projetos em grupo, com documentação completa: especificação, arquitetura, pl
 |---|---|---|
 | [**InfoGames**](https://github.com/willianbarbosadeandrade/pmv-ads-2024-1-e2-proj-int-t6-infogames) | Portal para jogadores com notícias atualizadas e estatísticas de jogos, publicado no Azure (2024/1) | C# · ASP.NET Core 8 MVC · Entity Framework · SQL Server |
 | [**Trail**](https://github.com/willianbarbosadeandrade/TRAIL-Ferramenta-de-check-in--T6--Grupo-01) | Aplicação web de check-in para registrar visitas a pontos turísticos (2023/2) | HTML · CSS · JavaScript |
+| **Doc.Pet** | Aplicativo móvel para atendimento veterinário domiciliar, desenvolvido em projeto de extensão com parceiro externo (2026/1) | Desenvolvimento mobile |
 | **Approveit** | Aplicativo móvel para gerenciar aprovações burocráticas em ambientes corporativos (2025/1) | Desenvolvimento mobile |
 
 ### 📚 Formação e estudos
