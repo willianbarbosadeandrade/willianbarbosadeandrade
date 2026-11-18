@@ -56,4 +56,4 @@ Projetos em grupo, com documentação completa: especificação, arquitetura, pl
 
 ---
 
-📫 [LinkedIn](https://www.linkedin.com/in/willianbarbosadeandrade) · [E-mail](mailto:willianbarbosa.comunic@gmail.com)
+📫 [LinkedIn](https://www.linkedin.com/in/willian-barbosa-de-andrade-31a068226) · [E-mail](mailto:willianbarbosa.comunic@gmail.com)
